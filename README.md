@@ -1,2 +1,2 @@
 # Data-Quality-Monitoring-Anomaly-Detection-Project
-This project is for detecting temperature anomalies across 30 cities around the world for 5 days of the week with 8 intervals per day, the weather data is courtesy of OpenWeatherMap.
+This project is for detecting temperature anomalies across 29 cities around the world for 5 days of the week with 8 intervals per day, the weather data is courtesy of OpenWeatherMap. Due to the effects of global warming it is so crucial to keep track of abnormal temperatures that affect us all over the world, ultimately informing us to take better decisions about our environment.
